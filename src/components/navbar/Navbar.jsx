@@ -11,7 +11,6 @@ function BasicExample() {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ms-auto">
-                        
                         <Link to= '/products' className='text-decoration-none text-dark fw-bold pe-5'>Products</Link>
                         <Link to= '/resturant' className='text-decoration-none text-dark fw-bold'>Resturant</Link>
                         
